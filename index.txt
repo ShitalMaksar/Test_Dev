@@ -3,9 +3,6 @@ sjdgjsad
 123
 45
 1224589
-<<<<<<< HEAD
 456778
 
 Shital
-=======
->>>>>>> parent of 306f662... new changes
